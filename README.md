@@ -12,3 +12,8 @@ Perfil do instrutor:  [Pedro Marins](https://cursos.alura.com.br/user/opedromari
 - Git
 - Github
 - Visual studio code
+
+
+## Projeto finalizado 
+
+- [Barbearia Alura 2.0 Site](https://crisarah.github.io/barbearia2.0/)
